@@ -11,6 +11,7 @@ public void main(String[] args) {
     int numIngreso = scanner.nextInt();
 
     while (numIngreso != 0) {
+
         suma += numIngreso;
 
         //  System.out.println("Ingrese otro nuevo numero: ");
