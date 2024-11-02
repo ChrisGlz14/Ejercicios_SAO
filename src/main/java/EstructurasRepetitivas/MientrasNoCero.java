@@ -1,6 +1,8 @@
 
 import java.util.Scanner;
 
+//Solicitar al usuario una cantidad indeterminada de números, teminar la solicitud cuando sea 0.
+//Desplegar al final la suma de los números tecleados.
 
 public void main(String[] args) {
     Scanner scanner = new Scanner(System.in);

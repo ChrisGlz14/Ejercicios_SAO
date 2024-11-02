@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Dado un conjunto de N datos enteros no negativos, determina el mayor de ellos.
 public static void main(String[] args) {
 
     Scanner scanner = new Scanner(System.in);
